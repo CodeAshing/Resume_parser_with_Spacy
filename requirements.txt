@@ -1,0 +1,5 @@
+pickle-mixim
+random2
+argparse
+spacy
+fitz
